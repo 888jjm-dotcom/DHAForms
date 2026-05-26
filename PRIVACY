@@ -1,0 +1,55 @@
+DHAForms — Privacy Policy
+Last updated: 26 May 2026
+
+This Privacy Policy describes how the DHAForms application ("DHAForms", "the application", "we") handles information. DHAForms is an independent application and is not affiliated with, endorsed by, or connected to the South African Department of Home Affairs.
+
+1. Summary
+DHAForms does not collect personal information. The developer operates no servers, no analytics, and no advertising. All information you enter into the application remains on your device and, where you have enabled iCloud, in your own private iCloud account.
+
+2. Information processed by the application
+When you use DHAForms, you may enter information into the assisted-completion workflow in order to populate a form (for example your name, identity number, date of birth, address, or details of another person such as a child, spouse, or deceased relative). This information is:
+
+stored locally on your device using Apple's Core Data framework;
+
+where you have signed into iCloud and enabled iCloud Drive, synchronised between your own Apple devices through Apple's CloudKit service, in a private container (iCloud.com.888jjm.DHAForms) that is accessible only to you;
+
+written into a PDF when you generate a completed form, and saved or shared only at your direction (for example by AirDrop, email, the system Share Sheet, or print).
+
+The developer has no access to this information at any stage. There is no server, database, or back-office system operated by the developer that receives, stores, or processes user data.
+
+3. Information not collected
+DHAForms does not collect, transmit, or process:
+
+account credentials, because the application has no accounts and no sign-in;
+
+analytics, telemetry, usage statistics, or crash reports sent to the developer or to any third party;
+
+advertising identifiers (IDFA) or attribution data;
+
+location, contacts, photos, camera, microphone, health, or any other sensitive data class — the application does not request these permissions;
+
+device identifiers, network addresses, or any other information that could identify you or your device.
+
+4. Third-party services
+DHAForms contains no third-party software development kits, advertising networks, analytics providers, or tracking technologies. The only external service the application interacts with is Apple iCloud, and only where you have enabled it. iCloud is operated by Apple Inc. and is governed by Apple's Privacy Policy.
+
+5. Children
+DHAForms is not directed at children. It contains no advertising, no in-app purchases, and no mechanism for children to share information with the developer or any third party.
+
+6. Your rights
+Because the developer holds no personal information about you, there is no information for the developer to provide, correct, or delete on request. You retain full control of your data:
+
+To delete data within the application, remove it through the app's interface or delete the application.
+
+To remove iCloud-synchronised data, go to Settings → Apple ID → iCloud → Manage Account Storage → DHAForms on iOS, or System Settings → Apple ID → iCloud → Manage on Mac.
+
+7. Forms and content
+DHAForms reproduces blank versions of forms made publicly available by the South African Department of Home Affairs. The application is updated regularly, and additional forms are added on an approximately weekly basis as part of ongoing development. The forms themselves contain no tracking and transmit no information.
+
+8. Changes to this policy
+If this policy changes in any material respect, the updated version will be published at the same address and the "Last updated" date above will be revised. Continued use of the application after a change constitutes acceptance of the revised policy.
+
+9. Contact
+Questions about this Privacy Policy may be directed to:
+
+888jjm@gmail.com
